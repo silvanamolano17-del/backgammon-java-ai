@@ -1,4 +1,4 @@
-# Backgamón – Taller 4 – Introducción a la IA
+# Backgamón 
 ## Algoritmo MIN-MAX (profundidad 2) en Java
 
 ---
